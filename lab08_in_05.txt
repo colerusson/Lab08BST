@@ -1,0 +1,40 @@
+copy
+print
+INT
+print
+add 1
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+print
+copy
+clear
+print
+printcopy
+STRING
+print
+add Ask
+add not
+add what
+add my
+add country
+add can
+add do
+add for
+add me
+add 2
+add 3
+add 4
+add 5
+add 6
+print
+copy
+clear
+print
+printcopy
+INT
+print
+printcopy
